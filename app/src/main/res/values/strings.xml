@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DigitalHouse Foods</string>
+    <string name="desc_prato">Descrição do prato</string>
+    <string name="nomePrato">Nome do prato</string>
+
+    <string name="tony_roma">Tony Roma\'s</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="restaurantepic">Foto do restaurante</string>
+
+    <string name="Nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+
+    <string name="confirmaSenha">Confirme a Senha</string>
+    <string name="Registrar_se">Registrar-se</string>
+    <string name="OU">OU</string>
+    <string name="login">Login</string>
+
+    <string name="horario">Horário</string>
+    <string name="endereco">Endereço</string>
+    <string name="nomeRestaurante">Restaurante</string>
+    <string name="pratos_main">Pratos Principais</string>
+
+</resources>
